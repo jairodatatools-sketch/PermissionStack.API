@@ -1,3 +1,9 @@
+Cree una aplicacion Web Api Core
+
+Nombre de la solución: PermissionStack.API
+
+En la cual creamos tres proyectos con sus respectivas carpetas:
+
 
 # PermissionStack.API
 
