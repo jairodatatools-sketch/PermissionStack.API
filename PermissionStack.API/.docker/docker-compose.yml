@@ -1,0 +1,72 @@
+﻿
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.11.0
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+    ports:
+      - "9200:9200"
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    environment:
+      SA_PASSWORD: "YourStrong@Password123"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlvolume:/var/opt/mssql
+
+  zookeeper:
+    image: bitnami/zookeeper:latest
+    container_name: zookeeper
+    environment:
+      - ALLOW_ANONYMOUS_LOGIN=yes
+    ports:
+      - "2181:2181"
+
+  kafka:
+    image: bitnami/kafka:latest
+    container_name: kafka
+    depends_on:
+      - zookeeper
+    environment:
+      - KAFKA_BROKER_ID=1
+      - KAFKA_CFG_ZOOKEEPER_CONNECT=zookeeper:2181
+      - KAFKA_CFG_LISTENERS=PLAINTEXT://:9092
+      - KAFKA_CFG_ADVERTISED_LISTENERS=PLAINTEXT://localhost:9092
+      - ALLOW_PLAINTEXT_LISTENER=yes
+    ports:
+      - "9092:9092"
+    volumes:
+      - kafkadata:/bitnami/kafka
+
+  permissionstackapi:
+    build:
+      context: ../../
+      dockerfile: Dockerfile
+    container_name: permissionstackapi
+    ports:
+      - "5100:8080"
+    depends_on:
+      - sqlserver
+      - elasticsearch
+      - kafka
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__SqlServer=Server=sqlserver;Database=PermissionDB;User Id=sa;Password=YourStrong@Password123;
+      - ElasticSearch__Url=http://elasticsearch:9200
+      - Kafka__BootstrapServers=kafka:9092
+
+volumes:
+  esdata:
+  sqlvolume:
+  kafkadata:
+
+
+

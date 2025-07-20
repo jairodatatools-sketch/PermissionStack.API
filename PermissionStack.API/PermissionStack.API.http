@@ -1,0 +1,6 @@
+@PermissionStack.API_HostAddress = http://localhost:5104
+
+GET {{PermissionStack.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
