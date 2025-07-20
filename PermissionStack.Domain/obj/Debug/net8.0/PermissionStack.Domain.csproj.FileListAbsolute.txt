@@ -1,0 +1,36 @@
+C:/Users/DELL/source/repos/N5/PermissionStack.API/PermissionStack.Domain/bin/Debug/net8.0/PermissionStack.Domain.deps.json
+C:/Users/DELL/source/repos/N5/PermissionStack.API/PermissionStack.Domain/bin/Debug/net8.0/PermissionStack.Domain.dll
+C:/Users/DELL/source/repos/N5/PermissionStack.API/PermissionStack.Domain/bin/Debug/net8.0/PermissionStack.Domain.pdb
+C:/Users/DELL/source/repos/N5/PermissionStack.API/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.csproj.AssemblyReference.cache
+C:/Users/DELL/source/repos/N5/PermissionStack.API/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/DELL/source/repos/N5/PermissionStack.API/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.AssemblyInfoInputs.cache
+C:/Users/DELL/source/repos/N5/PermissionStack.API/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.AssemblyInfo.cs
+C:/Users/DELL/source/repos/N5/PermissionStack.API/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.csproj.CoreCompileInputs.cache
+C:/Users/DELL/source/repos/N5/PermissionStack.API/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.dll
+C:/Users/DELL/source/repos/N5/PermissionStack.API/PermissionStack.Domain/obj/Debug/net8.0/refint/PermissionStack.Domain.dll
+C:/Users/DELL/source/repos/N5/PermissionStack.API/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.pdb
+C:/Users/DELL/source/repos/N5/PermissionStack.API/PermissionStack.Domain/obj/Debug/net8.0/ref/PermissionStack.Domain.dll
+C:/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/bin/Debug/net8.0/PermissionStack.Domain.deps.json
+C:/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/bin/Debug/net8.0/PermissionStack.Domain.dll
+C:/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/bin/Debug/net8.0/PermissionStack.Domain.pdb
+C:/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.csproj.AssemblyReference.cache
+C:/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.AssemblyInfoInputs.cache
+C:/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.AssemblyInfo.cs
+C:/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.csproj.CoreCompileInputs.cache
+C:/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.dll
+C:/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/refint/PermissionStack.Domain.dll
+C:/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.pdb
+C:/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/ref/PermissionStack.Domain.dll
+/mnt/c/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/bin/Debug/net8.0/PermissionStack.Domain.deps.json
+/mnt/c/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/bin/Debug/net8.0/PermissionStack.Domain.dll
+/mnt/c/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/bin/Debug/net8.0/PermissionStack.Domain.pdb
+/mnt/c/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.csproj.AssemblyReference.cache
+/mnt/c/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.AssemblyInfoInputs.cache
+/mnt/c/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.AssemblyInfo.cs
+/mnt/c/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.csproj.CoreCompileInputs.cache
+/mnt/c/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.dll
+/mnt/c/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/refint/PermissionStack.Domain.dll
+/mnt/c/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/PermissionStack.Domain.pdb
+/mnt/c/Users/DELL/source/repos/N5/PermissionStack.API - copia 16jul2025 1749/PermissionStack.Domain/obj/Debug/net8.0/ref/PermissionStack.Domain.dll

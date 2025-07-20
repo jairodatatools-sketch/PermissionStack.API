@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L3pMG/5rqpNP3CDmaDWYmQDH2EHHLloiCzVWELZstp8=",
+  "Source": "PermissionStack.API",
+  "BasePath": "_content/PermissionStack.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

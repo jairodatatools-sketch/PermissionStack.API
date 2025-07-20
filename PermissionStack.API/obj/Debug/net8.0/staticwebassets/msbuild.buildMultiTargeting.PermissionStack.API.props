@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/PermissionStack.API.props" />
+</Project>
